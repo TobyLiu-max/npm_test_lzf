@@ -7,7 +7,7 @@
     "test_lzf": "./bin/test_lzf.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "test_lzf",
     "publish": "npm publish"
   },
   "keywords": [],
@@ -16,5 +16,8 @@
   "repository": {
     "type": "git",
     "url": ""
+  },
+  "dependencies": {
+    "npm-test-lzf": "^1.0.2"
   }
 }
