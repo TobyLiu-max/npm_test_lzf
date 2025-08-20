@@ -1,4 +1,0 @@
-#!/usr/bin/env node
-console.log('test bin');
-const name1 = process.argv[2];
-console.log('name:', name1);

@@ -1,10 +1,11 @@
 {
   "name": "npm-test-lzf",
-  "version": "1.0.4",
+  "version": "1.0.8",
   "description": "",
   "main": "index.js",
+  "type": "commonjs",
   "bin": {
-    "test_lzf": "./bin/test_lzf.js"
+    "test_lzf": "cli.js"
   },
   "scripts": {
     "test": "test_lzf",
@@ -15,9 +16,6 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": ""
-  },
-  "dependencies": {
-    "npm-test-lzf": "^1.0.2"
+    "url": "https://github.com/TobyLiu-max/npm_test_lzf.git"
   }
 }
