@@ -7,13 +7,14 @@
     "test_lzf": "./bin/test_lzf.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "publish": "npm publish"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TobyLiu-max/npm_test_lzf.git"
+    "url": ""
   }
 }
